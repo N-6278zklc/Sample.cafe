@@ -218,7 +218,7 @@ button {
 
 #menu {
   width: 100%;
-  height: 100%;
+  height: 2300px;
 }
 
 .menu-container {
@@ -285,6 +285,10 @@ button {
 }
 
 .img-height {
+  height: 200px;
+}
+
+.coffee img {
   height: 200px;
 }
 
@@ -570,7 +574,7 @@ button {
 
   #menu {
     width: 100%;
-    /*height: 5000px;*/
+    height: 4200px;
   }
 
   .menu-container {
